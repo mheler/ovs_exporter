@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/go-kit/log v0.2.1
-	github.com/greenpau/ovsdb v1.0.3
+	github.com/greenpau/ovsdb v1.0.2
 	github.com/prometheus/client_golang v1.13.0
 	github.com/prometheus/common v0.37.0
 )
